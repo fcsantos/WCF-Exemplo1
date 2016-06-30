@@ -1,0 +1,14 @@
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Infra.Repository\obj\Debug\Projeto.Infra.Repository.csprojResolveAssemblyReference.cache
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Infra.Repository\bin\Debug\Projeto.Infra.Repository.dll.config
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Infra.Repository\bin\Debug\Projeto.Infra.Repository.dll
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Infra.Repository\bin\Debug\Projeto.Infra.Repository.pdb
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Infra.Repository\bin\Debug\EntityFramework.dll
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Infra.Repository\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Infra.Repository\bin\Debug\Projeto.Common.dll
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Infra.Repository\bin\Debug\Projeto.Entities.dll
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Infra.Repository\bin\Debug\Projeto.Common.pdb
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Infra.Repository\bin\Debug\Projeto.Entities.pdb
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Infra.Repository\bin\Debug\EntityFramework.xml
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Infra.Repository\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Infra.Repository\obj\Debug\Projeto.Infra.Repository.dll
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Infra.Repository\obj\Debug\Projeto.Infra.Repository.pdb

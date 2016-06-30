@@ -1,0 +1,5 @@
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Common\bin\Debug\Projeto.Common.dll
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Common\bin\Debug\Projeto.Common.pdb
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Common\obj\Debug\Projeto.Common.csprojResolveAssemblyReference.cache
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Common\obj\Debug\Projeto.Common.dll
+c:\users\fcsantos\documents\visual studio 2015\Projects\ControleFuncionario\Projeto.Common\obj\Debug\Projeto.Common.pdb

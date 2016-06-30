@@ -1,0 +1,7 @@
+﻿<%@ ServiceHost 
+    Language="C#" 
+    Debug="true" 
+    Service="Projeto.Service.Services.FuncionarioService" 
+    CodeBehind="FuncionarioService.svc.cs" 
+    Factory="Ninject.Extensions.Wcf.NinjectServiceHostFactory"
+%>
